@@ -107,6 +107,13 @@ Schedule a meeting to discuss your project further
 Sign up for a free trial of our software
 Download our whitepaper on the benefits of our software
 
+# References
+What is a Call to Action and How Do I Use Them? | Neil Patel: https://neilpatel.com/blog/call-to-action/
+50 Effective Call-to-Action Examples | HubSpot: https://blog.hubspot.com/marketing/call-to-action-examples
+Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal by Oren Klaff
+The Art of the Pitch: Persuading People to Take Action by Peter Coughter
+Selling SaaS: The Complete Guide to Scaling Your Software-as-a-Service Business by Thomas G. Squire
+
  # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide real-world examples or case studies wherever possible.
